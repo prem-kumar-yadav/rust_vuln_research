@@ -44,7 +44,7 @@ rust_vuln_presentation.pptx
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rust-vuln-research.git
+git clone https://github.com/prem-kumar-yadav/rust_vuln_research.git
 cd rust-vuln-research
 ```
 
