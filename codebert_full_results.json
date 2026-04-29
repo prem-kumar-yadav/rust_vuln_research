@@ -1,0 +1,5372 @@
+{
+  "RustDataset_v4/vulnerable_rust_files/vuln_00062.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00122.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00033.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999121427536011
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00173.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00351.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00211.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00180.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00300.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00091.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00240.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00147.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999110698699951
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00396.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00007.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00287.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00116.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00056.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00274.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00334.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00225.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00365.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00489.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00499.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999116659164429
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00375.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00235.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00324.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00264.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00046.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00106.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00297.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00017.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999122619628906
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00386.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00157.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00250.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00081.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00310.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00190.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999123811721802
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00201.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00341.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00163.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00023.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999107122421265
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00132.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00072.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00112.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00283.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00052.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00143.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00003.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00392.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00221.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00361.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00270.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00330.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00037.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00177.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00066.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00126.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00095.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00304.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00244.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00355.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00184.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00215.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00205.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00194.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00345.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00254.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00314.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00085.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00136.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00076.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00167.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00027.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00320.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00260.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00371.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00231.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00382.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999152421951294
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00013.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00153.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00042.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00293.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00102.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00282.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00113.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00053.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00142.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00393.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00002.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00220.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00360.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00271.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00331.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00036.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00176.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00067.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00127.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00305.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00094.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00245.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00354.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00214.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00185.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00195.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00204.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00344.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00255.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00084.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00315.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00137.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999120235443115
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00077.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00166.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00026.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00321.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00261.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00370.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00230.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00012.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00383.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00152.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00043.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00103.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00292.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00063.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00123.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00032.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00172.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00350.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00181.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00210.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999125003814697
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00090.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00301.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999121427536011
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00241.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00146.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00006.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00397.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00117.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00286.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00057.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00275.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00335.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00224.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00364.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00488.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00498.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00374.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00234.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00325.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00265.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00047.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00296.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00107.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00387.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00016.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00156.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00251.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00311.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00080.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00200.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00191.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00340.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00162.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00022.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00133.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00073.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00483.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00421.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00530.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00470.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00444.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00504.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00415.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00068.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00128.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00039.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00179.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00169.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00029.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00138.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00078.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00405.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00514.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00454.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00460.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00520.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00431.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00493.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00411.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00440.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00500.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00487.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00534.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00474.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00425.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00289.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999154806137085
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00118.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00058.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00149.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00398.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00009.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00019.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00388.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00159.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00048.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00108.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00299.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00435.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00464.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00524.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00497.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00510.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999154806137085
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00450.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00401.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00410.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00441.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00501.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00486.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00535.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00475.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00424.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999109506607056
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00119.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00288.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00059.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999911904335022
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00148.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00008.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999911904335022
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00399.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00389.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00018.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00158.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00049.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00298.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00109.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00434.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00465.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00525.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999152421951294
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00496.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00511.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999125003814697
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00451.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00400.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999125003814697
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00482.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00420.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00531.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00471.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00445.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00505.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00414.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00069.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00129.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00038.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00178.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00168.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00028.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00139.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00079.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00404.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00515.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00455.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00461.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00521.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00430.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00492.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00442.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00502.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00413.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00427.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00536.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00476.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00485.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00278.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00338.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00229.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00369.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00379.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00239.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00328.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999123811721802
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00268.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00495.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00466.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00526.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00437.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00403.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00512.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00452.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999121427536011
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00532.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00472.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00423.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00481.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00417.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00446.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00506.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00099.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00308.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00248.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00359.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00188.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00219.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00209.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00198.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00349.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00258.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00318.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00089.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00516.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00456.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00407.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00491.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00433.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00462.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00522.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00533.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00473.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00422.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999096393585205
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00480.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00416.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00447.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00507.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00309.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00098.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00249.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00358.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999122619628906
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00218.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00189.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00199.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00208.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999125003814697
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00348.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00259.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00088.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00319.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00517.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00457.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00406.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00490.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00432.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00463.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00523.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00443.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00503.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00412.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999121427536011
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00426.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00537.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00477.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00484.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00279.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00339.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00228.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00368.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00378.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00238.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00329.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00269.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00494.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00467.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00527.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00436.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00402.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00513.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00453.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00272.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00332.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00223.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00363.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00141.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00001.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00390.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00110.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999113082885742
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00281.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00050.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00357.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00186.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999117851257324
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00217.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00097.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00306.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00246.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999120235443115
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00064.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00124.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00035.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00175.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00448.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00508.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00419.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00409.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00518.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00458.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00165.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00025.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00134.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00074.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00256.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00316.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00087.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00207.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00196.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00347.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999125003814697
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00040.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00291.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00100.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00380.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00011.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00151.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00373.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00233.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00322.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00262.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00302.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00093.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00242.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00353.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00213.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00182.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00031.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00171.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00060.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00120.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00227.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00367.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00276.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00336.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999152421951294
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00285.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00114.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00054.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00145.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00394.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00005.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00478.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00429.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00439.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00468.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00528.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00015.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00384.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00155.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00044.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999121427536011
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00104.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00295.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00326.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00266.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00377.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00237.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00130.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00070.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00161.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00021.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00192.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00203.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00343.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00252.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00083.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00312.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00092.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00303.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00243.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00352.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00183.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00212.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00030.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999121427536011
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00170.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00061.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00121.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00226.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999150037765503
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00366.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00277.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00337.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00115.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00284.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00055.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00144.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00004.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00395.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00479.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00428.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00438.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00469.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00529.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00385.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00014.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00154.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00045.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00294.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999144077301025
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00105.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00327.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00267.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00376.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00236.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00131.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00071.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00160.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00020.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00202.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00193.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00342.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999914288520813
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00253.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999148845672607
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00313.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00082.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00273.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00333.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00222.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00362.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999128580093384
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00140.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00391.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00280.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00111.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00051.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00356.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999141693115234
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00216.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00187.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999133348464966
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00307.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00096.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999122619628906
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00247.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999146461486816
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00065.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00125.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00034.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00174.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00449.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00509.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00418.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00408.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00519.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00459.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00164.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999913215637207
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00024.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00135.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00075.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00257.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00086.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999145269393921
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00317.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.999909520149231
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00197.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00206.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999129772186279
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00346.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999127388000488
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00041.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00101.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999139308929443
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00290.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00010.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999147653579712
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00381.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999151229858398
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00150.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999126195907593
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00372.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00232.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999140501022339
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00323.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "RustDataset_v4/vulnerable_rust_files/vuln_00263.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999134540557861
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00498.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00265.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00325.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00234.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00374.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00156.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00016.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998905658721924
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00387.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00107.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998970031738281
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00296.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00047.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999894380569458
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00340.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00191.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00200.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998897314071655
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00080.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00311.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00251.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893069267273
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00073.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998912811279297
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00133.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00022.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00162.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00172.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00032.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00123.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998939037322998
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00063.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998941421508789
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00241.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00301.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00090.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00210.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00181.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00350.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00057.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998965263366699
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00286.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998946189880371
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00117.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00397.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00006.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00146.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00364.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998986721038818
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00224.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00335.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998862743377686
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00275.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00488.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00315.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998843669891357
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00084.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998958110809326
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00255.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998905658721924
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00344.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00204.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998890161514282
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00195.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998931884765625
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00026.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998877048492432
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00166.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998981952667236
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00077.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00137.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00230.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00370.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893069267273
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00261.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00321.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00292.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00103.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00043.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00152.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00383.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998918771743774
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00012.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00002.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00393.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00142.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998974800109863
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00053.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998879432678223
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00113.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00282.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00331.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998958110809326
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00271.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00360.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998879432678223
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00220.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00127.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00067.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00176.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998918771743774
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00036.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00185.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00214.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00354.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00245.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00094.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00305.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00085.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00314.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998877048492432
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00254.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00345.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00194.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00205.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00027.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00167.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00076.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00136.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998893737792969
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00231.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00371.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999894380569458
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00260.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998906850814819
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00320.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00102.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998965263366699
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00293.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00042.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00153.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00013.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998879432678223
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00382.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00392.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00003.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00143.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893069267273
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00052.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00283.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00112.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00330.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998962879180908
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00270.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998971223831177
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00361.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998968839645386
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00221.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00126.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00066.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998893737792969
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00177.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00037.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00215.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00184.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999889612197876
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00355.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998986721038818
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00244.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00304.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00095.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00499.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998962879180908
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00264.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00324.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00235.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00375.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00157.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00386.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00017.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00297.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00106.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998953342437744
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00046.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00341.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00201.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998970031738281
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00190.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00310.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998897314071655
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00081.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00250.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998897314071655
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00072.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00132.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00023.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998874664306641
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00163.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998890161514282
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00173.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998968839645386
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00033.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00122.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998975992202759
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00062.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00240.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998878240585327
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00091.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998918771743774
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00300.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998903274536133
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00180.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998910427093506
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00211.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00351.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00056.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00116.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00287.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00007.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998941421508789
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00396.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998950958251953
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00147.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00365.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00225.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00334.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998966455459595
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00274.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999896764755249
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00489.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00079.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00139.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998974800109863
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00028.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00168.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998953342437744
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00455.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00515.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00404.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00430.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00521.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00461.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00492.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00482.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00471.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999894380569458
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00531.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00420.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998891353607178
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00414.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998866319656372
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00505.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00445.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00178.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00038.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998953342437744
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00129.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00069.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00109.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00298.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00049.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00158.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00018.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00389.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00525.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998939037322998
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00465.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00434.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00496.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999895453453064
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00400.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998970031738281
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00451.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00511.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893069267273
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00501.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00441.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00410.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00486.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998965263366699
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00424.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00475.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998890161514282
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00535.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00399.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00008.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998891353607178
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00148.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00059.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00288.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998931884765625
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00119.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00299.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00108.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998968839645386
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00048.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00159.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00388.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998868703842163
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00019.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00524.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998974800109863
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00464.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998912811279297
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00435.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00497.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998891353607178
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00401.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998950958251953
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00450.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00510.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00500.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998887777328491
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00440.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00411.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998910427093506
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00487.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00425.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00474.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998891353607178
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00534.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00009.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00398.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998805522918701
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00149.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00058.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998946189880371
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00118.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00289.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00078.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00138.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00029.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00169.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998868703842163
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00454.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00514.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998893737792969
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00405.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00431.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00520.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00460.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998968839645386
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00493.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00483.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00470.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998888969421387
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00530.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998910427093506
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00421.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998836517333984
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00415.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00504.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00444.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00179.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999889612197876
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00039.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00128.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00068.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998931884765625
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00269.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998905658721924
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00329.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998878240585327
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00238.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998880624771118
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00378.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00494.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998973608016968
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00436.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00527.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998884201049805
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00467.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998880624771118
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00453.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998970031738281
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00513.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00402.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00412.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998878240585327
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00503.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00443.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00477.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998890161514282
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00537.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00426.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00484.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00368.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999889612197876
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00228.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998918771743774
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00339.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998970031738281
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00279.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00319.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00088.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00259.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998964071273804
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00348.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999896764755249
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00208.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00199.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00406.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00457.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00517.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00490.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00523.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00463.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00432.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998910427093506
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00422.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999881386756897
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00473.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00533.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998956918716431
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00480.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00507.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998950958251953
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00447.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00416.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998890161514282
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00189.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00218.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998918771743774
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00358.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998750686645508
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00249.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00098.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00309.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998971223831177
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00089.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00318.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00258.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00349.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00198.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998977184295654
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00209.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00407.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00456.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00516.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00491.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00522.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00462.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998905658721924
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00433.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00423.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998887777328491
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00472.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00532.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998884201049805
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00481.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998874664306641
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00506.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00446.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00417.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00219.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00188.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00359.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00248.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998879432678223
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00308.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998964071273804
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00099.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00268.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00328.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00239.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998877048492432
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00379.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998923540115356
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00495.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998862743377686
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00437.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998966455459595
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00526.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999889612197876
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00466.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998939037322998
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00452.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999889612197876
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00512.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00403.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00413.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998906850814819
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00502.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00442.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00476.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998892545700073
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00536.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00427.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998939037322998
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00485.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00369.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00229.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998903274536133
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00338.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998958110809326
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00278.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00459.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00519.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998950958251953
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00408.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00075.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999889612197876
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00135.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998878240585327
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00024.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998873472213745
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00164.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998971223831177
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00346.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998878240585327
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00206.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998877048492432
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00197.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998914003372192
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00317.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998712539672852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00086.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00257.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00150.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00381.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00010.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998931884765625
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00290.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00101.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998956918716431
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00041.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998966455459595
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00263.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998905658721924
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00323.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00232.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00372.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00362.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00222.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00333.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00273.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00051.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998956918716431
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00111.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998946189880371
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00280.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00391.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998918771743774
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00140.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998847246170044
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00247.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998939037322998
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00096.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998941421508789
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00307.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.99988853931427
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00187.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00216.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998940229415894
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00356.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00174.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00034.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998884201049805
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00125.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00065.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00418.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00509.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00449.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00529.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00469.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998866319656372
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00438.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00105.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00294.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999895453453064
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00045.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00154.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00014.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00385.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00236.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999895453453064
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00376.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00267.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00327.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00020.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00160.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00071.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998972415924072
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00131.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998956918716431
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00082.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00313.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00253.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00342.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00193.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998964071273804
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00202.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00212.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00183.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00352.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998921155929565
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00243.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998931884765625
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00303.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00092.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998836517333984
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00121.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00061.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00170.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00030.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998884201049805
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00337.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998888969421387
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00277.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00366.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00226.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998890161514282
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00395.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00004.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00144.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999895453453064
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00055.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998952150344849
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00284.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00115.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998922348022461
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00428.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.99988853931427
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00479.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998974800109863
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00528.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998966455459595
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00468.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00439.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00295.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998953342437744
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00104.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998959302902222
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00044.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998925924301147
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00155.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00384.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998910427093506
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00015.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999894380569458
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00237.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00377.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998931884765625
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00266.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998859167098999
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00326.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00021.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00161.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00070.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00130.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00312.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00083.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.99988853931427
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00252.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998960494995117
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00343.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893069267273
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00203.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998868703842163
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00192.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998892545700073
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00182.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00213.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998903274536133
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00353.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00242.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00093.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998898506164551
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00302.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998868703842163
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00120.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998949766159058
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00060.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998894929885864
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00171.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00031.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00336.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999896764755249
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00276.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998955726623535
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00367.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00227.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998908042907715
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00005.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998888969421387
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00394.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00145.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998929500579834
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00054.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00114.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998906850814819
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00285.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998946189880371
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00429.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998897314071655
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00478.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998874664306641
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00458.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00518.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998961687088013
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00409.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998912811279297
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00074.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998927116394043
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00134.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998911619186401
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00025.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998958110809326
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00165.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998899698257446
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00347.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998897314071655
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00196.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998948574066162
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00207.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998917579650879
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00087.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00316.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998900890350342
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00256.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998964071273804
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00151.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998906850814819
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00011.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999893307685852
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00380.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999886155128479
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00100.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00291.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998974800109863
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00040.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00262.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00322.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999891996383667
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00233.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.999890923500061
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00373.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998793601989746
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00363.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00223.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998880624771118
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00332.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998953342437744
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00272.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998962879180908
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00050.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998928308486938
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00281.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998935461044312
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00110.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998897314071655
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00390.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998984336853027
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00001.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00141.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998944997787476
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00246.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998873472213745
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00306.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998936653137207
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00097.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998934268951416
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00217.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998947381973267
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00186.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00357.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998912811279297
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00175.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998953342437744
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00035.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00124.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998942613601685
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00064.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998906850814819
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00419.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998902082443237
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00508.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998968839645386
+  },
+  "RustDataset_v4/non_vulnerable_rust_files/safe_00448.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998904466629028
+  }
+}

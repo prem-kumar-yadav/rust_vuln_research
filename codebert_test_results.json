@@ -1,0 +1,52 @@
+{
+  "test_dataset/vulnerable/vuln_00003.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "test_dataset/vulnerable/vuln_00002.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999135732650757
+  },
+  "test_dataset/vulnerable/vuln_00001.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999130964279175
+  },
+  "test_dataset/vulnerable/vuln_00005.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999138116836548
+  },
+  "test_dataset/vulnerable/vuln_00004.rs": {
+    "actual": 1,
+    "predicted": 1,
+    "confidence": 0.9999136924743652
+  },
+  "test_dataset/non_vulnerable/safe_00002.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998915195465088
+  },
+  "test_dataset/non_vulnerable/safe_00003.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998924732208252
+  },
+  "test_dataset/non_vulnerable/safe_00004.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998937845230103
+  },
+  "test_dataset/non_vulnerable/safe_00005.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998888969421387
+  },
+  "test_dataset/non_vulnerable/safe_00001.rs": {
+    "actual": 0,
+    "predicted": 0,
+    "confidence": 0.9998916387557983
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "test_dataset/vulnerable/vuln_00003.rs": {
+    "actual": 1,
+    "predicted": 1
+  },
+  "test_dataset/vulnerable/vuln_00002.rs": {
+    "actual": 1,
+    "predicted": 0
+  },
+  "test_dataset/vulnerable/vuln_00001.rs": {
+    "actual": 1,
+    "predicted": 0
+  },
+  "test_dataset/vulnerable/vuln_00005.rs": {
+    "actual": 1,
+    "predicted": 0
+  },
+  "test_dataset/vulnerable/vuln_00004.rs": {
+    "actual": 1,
+    "predicted": 0
+  },
+  "test_dataset/non_vulnerable/safe_00002.rs": {
+    "actual": 0,
+    "predicted": 0
+  },
+  "test_dataset/non_vulnerable/safe_00003.rs": {
+    "actual": 0,
+    "predicted": 1
+  },
+  "test_dataset/non_vulnerable/safe_00004.rs": {
+    "actual": 0,
+    "predicted": 0
+  },
+  "test_dataset/non_vulnerable/safe_00005.rs": {
+    "actual": 0,
+    "predicted": 0
+  },
+  "test_dataset/non_vulnerable/safe_00001.rs": {
+    "actual": 0,
+    "predicted": 0
+  }
+}

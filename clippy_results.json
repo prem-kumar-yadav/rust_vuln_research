@@ -1,0 +1,62 @@
+{
+  "test_dataset/vulnerable/vuln_00003.rs": {
+    "file": "test_dataset/vulnerable/vuln_00003.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_vuln_00003#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_vuln_00003/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_vuln_00003/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: unexpected closing delimiter: `}`\\n  --> main.rs:15:1\\n   |\\n15 | }\\n   | ^ unexpected closing delimiter\\n\\n\",\"",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_vuln_00003)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/vulnerable/vuln_00002.rs": {
+    "file": "test_dataset/vulnerable/vuln_00002.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_vuln_00002#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_vuln_00002/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_vuln_00002/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: this file contains an unclosed delimiter\\n  --> main.rs:48:26\\n   |\\n34 |             if !(wants_write_again ||",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_vuln_00002)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/vulnerable/vuln_00001.rs": {
+    "file": "test_dataset/vulnerable/vuln_00001.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_vuln_00001#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_vuln_00001/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_vuln_00001/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: this file contains an unclosed delimiter\\n  --> main.rs:37:3\\n   |\\n16 |                  Some(OcspStatus {\\n  ",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_vuln_00001)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/vulnerable/vuln_00005.rs": {
+    "file": "test_dataset/vulnerable/vuln_00005.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_vuln_00005#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_vuln_00005/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_vuln_00005/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: unexpected closing delimiter: `}`\\n  --> main.rs:18:13\\n   |\\n18 |             } else {\\n   |             ^ une",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_vuln_00005)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/vulnerable/vuln_00004.rs": {
+    "file": "test_dataset/vulnerable/vuln_00004.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_vuln_00004#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_vuln_00004/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_vuln_00004/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: expected item, found keyword `let`\\n  --> main.rs:15:1\\n   |\\n15 | let args: Vec<String> = std::env::args().col",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_vuln_00004)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/non_vulnerable/safe_00002.rs": {
+    "file": "test_dataset/non_vulnerable/safe_00002.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_safe_00002#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_safe_00002/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_safe_00002/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: this file contains an unclosed delimiter\\n  --> main.rs:31:26\\n   |\\n22 |             if !self.conn.wants_read_",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_safe_00002)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/non_vulnerable/safe_00003.rs": {
+    "file": "test_dataset/non_vulnerable/safe_00003.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_safe_00003#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_safe_00003/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_safe_00003/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: unexpected closing delimiter: `}`\\n  --> main.rs:11:1\\n   |\\n11 | }\\n   | ^ unexpected closing delimiter\\n\\n\",\"",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_safe_00003)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/non_vulnerable/safe_00004.rs": {
+    "file": "test_dataset/non_vulnerable/safe_00004.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_safe_00004#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_safe_00004/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_safe_00004/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: expected item, found keyword `let`\\n  --> main.rs:11:1\\n   |\\n11 | let args: Vec<String> = std::env::args().col",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_safe_00004)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/non_vulnerable/safe_00005.rs": {
+    "file": "test_dataset/non_vulnerable/safe_00005.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_safe_00005#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_safe_00005/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_safe_00005/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: unexpected closing delimiter: `}`\\n  --> main.rs:14:13\\n   |\\n14 |             } else if target == host {\\n   |",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_safe_00005)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  },
+  "test_dataset/non_vulnerable/safe_00001.rs": {
+    "file": "test_dataset/non_vulnerable/safe_00001.rs",
+    "has_finding": true,
+    "stdout": "{\"reason\":\"compiler-message\",\"package_id\":\"path+file:///private/tmp/clippy_temp_safe_00001#temp_project@0.1.0\",\"manifest_path\":\"/private/tmp/clippy_temp_safe_00001/Cargo.toml\",\"target\":{\"kind\":[\"bin\"],\"crate_types\":[\"bin\"],\"name\":\"temp_project\",\"src_path\":\"/private/tmp/clippy_temp_safe_00001/main.rs\",\"edition\":\"2021\",\"doc\":true,\"doctest\":false,\"test\":true},\"message\":{\"rendered\":\"error: this file contains an unclosed delimiter\\n  --> main.rs:55:3\\n   |\\n12 |                  Some(OcspStatus {\\n  ",
+    "stderr": "    Checking temp_project v0.1.0 (/private/tmp/clippy_temp_safe_00001)\nerror: could not compile `temp_project` (bin \"temp_project\") due to 1 previous error\n"
+  }
+}
